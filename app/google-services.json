@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "761462243828",
+    "firebase_url": "https://depomessenger-98.firebaseio.com",
+    "project_id": "depomessenger-98",
+    "storage_bucket": "depomessenger-98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761462243828:android:f54a9110db16793c",
+        "android_client_info": {
+          "package_name": "com.depobangunan.depomessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761462243828-ihfi1b75g0928vbqtdhdm09jt3lbq5e8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.depobangunan.depomessenger",
+            "certificate_hash": "d9fc82f603f8fddf0316eb0052a79eacb5b618ec"
+          }
+        },
+        {
+          "client_id": "761462243828-faacnocr16i11ltm09cehcaouodaia1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCODs1yWzrEa5JM0AA6Q9zAKhuoy4YT9r0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761462243828-faacnocr16i11ltm09cehcaouodaia1t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
